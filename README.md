@@ -4,7 +4,7 @@
 ### Who am I?
 Enthusiastic and dedicated Full Stack Developer with over 10 years of experience. Always seeking to be a Clean Coder, to sum with technical skills, but also to think together about business goals.
 
-Hobbies: Games, Jiu-Jitsu, Bodybuilding
+**Hobbies**: Games, Jiu-Jitsu, Bodybuilding
 
 ### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsamorim&count_private=true&show_icons=true&hide_title=true&theme=dark)  
