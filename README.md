@@ -2,7 +2,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lsamorim/)
 
 ### Who am I?
-Enthusiastic and dedicated Full Stack Developer with over 10 years of experience. Always seeking to be a Clean Coder, to sum with technical skills, but also to think together about business goals.
+Enthusiastic and dedicated Full Stack Developer with over 10 years of experience. Always striving to be a Clean Coder, to chip in with technical skills, but also to collaborate on business goals.
 
 **Hobbies**: Games, Jiu-Jitsu, Bodybuilding
 
